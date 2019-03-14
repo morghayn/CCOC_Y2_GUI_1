@@ -1,0 +1,514 @@
+1. Introduction
+
+The National Transport Authority is providing a service (the "Service") enabling access to self-service hire bicycles in the cities of Galway, Limerick and Cork under public bike share schemes operated as CityBikes.
+
+The Service is operated on behalf of the National Transport Authority by Telfourth Limited, trading as An Rothar Nua.
+
+These terms and conditions set out the agreement between you and the National Transport Authority in relation to the opening and operation of an account with the National Transport Authority for the use of the CityBikes.
+
+The Authority would draw your attention to the fact that amounts are payable by you in connection with this Agreement.  For further details of the amounts that may be payable, please see clauses 6, 7, 10 and 13.
+
+2. Definitions
+
+In this Agreement the following words and expressions shall have the following meanings unless the context otherwise requires
+
+"Account" means your account with the Authority for your use of the Service, being either an Annual Account or a 3-Day Account;
+
+"Account Application Form" means the application form to be completed by you in order to open an Account;
+
+"Account Balance" means, at any time, the amount recorded by which an Account may be in credit or in debit, as the case may be;
+
+"Agreement" means these terms and conditions, together with the Account Application Form, as may be amended or supplemented from time to time;
+
+"Annual Account" means an account required for use of the Service, with a duration of twelve (12) months from its opening or subsequent renewal;
+
+"Authority" means the National Transport Authority, as established pursuant to the Dublin Transport Authority Act 2008 (as amended from time to time) and having its principal office at Dún Scéine, Harcourt Lane, Dublin 2;
+
+"Bike" means a CityBike;
+
+"Bike Station" means a location where a Bike may be hired;
+
+"Cancellation Period" means fourteen (14) days from the date that you enter into this Agreement;
+
+"City" means any of the cities of Galway, Limerick and Cork;
+
+"Customer" means you, the person who is opening, or holds, an Account with the Authority;
+
+"Customer Service Centre" means the dedicated contact centre established to respond to, to manage and to resolve Customer queries in relation to the Service;
+
+"Hire Charges" means the charges incurred for the hire of a bike as set out in clause 6.1;
+
+"Membership Card" means the card issued to you (by post) following the setting up of an Annual Account in relation to that Annual Account and which allows you to use the Service;
+
+"Payment Account" means an account related to a credit card or debit card (in each case, being an account in respect of which instructions may be given authorising debits to be made from it), and from which you have authorised or are authorising the Authority to effect debits from such account in accordance with this Agreement;
+
+"Period of Use" means the period from the commencement of the hire of a bike until the return of the bike to a Bike Station has been registered by the Bike Station;
+
+"PIN Code" means the four digit customer generated code used to hire a bike from a Bike Station;
+
+"Provider" means Telfourth Limited with registered office at Little Acre, Curragh, Kilanerin, Gorey, Co. Wexford, trading as An Rothar Nua and operating the Service for the Authority;
+
+"Renewal Date" means, in the case of an Annual Account, the date that is the anniversary of the date that you enter into this Agreement;
+
+"Security Deposit" means the amount debited or to be debited from your Payment Account in accordance with clause 7;
+
+"Subscriber Access Number" means a code issued to a Customer following the setting up of a 3-Day Account;
+
+"Subscription Fee" means the fee charged for the establishment or renewal of the Account as set out in clause 6.1;
+
+"Terminal" means the customer kiosk at a Bike Station;
+
+"Website" means the CityBikes website with the address of www.bikeshare.ie ;
+
+"Welcome Pack" means the documentation issued to a Customer by post following the setting up of an Annual Account;
+
+"3-Day Account" means an account required for use of the Service, with a duration of three (3) consecutive days of twenty-four (24) hours. A 3-Day Account can be created on the bikeshare website at www.bikeshare.ie.
+
+“3-Day Account Access code” means a temporary subscription code created online for customers wishing to access the system over a 3-day period.
+
+In this Agreement:  
+
+headings and subheadings are for ease of reference only and shall not be taken into consideration in the interpretation or construction of this Agreement;
+
+all references to any agreement (including, without limitation, this Agreement), document or other instrument include (subject to all relevant approvals and any other provision of this Agreement expressly concerning such agreement, document or other instrument) a reference to that agreement, document or instrument as amended, supplemented, substituted, novated or assigned;
+
+all references to any statute or statutory provision (including any subordinate legislation) shall include references to any statute or statutory provision which amends, extends, consolidates or replaces the same or which has been amended, extended, consolidated or replaced by the same;
+
+all references to time of day shall be a reference to whatever time of day shall be in force in the State;
+
+words importing the singular include the plural and vice versa;
+
+words importing a particular gender includes all genders;
+
+"person" includes any individual, partnership, firm, trust, body corporate, government, governmental body, authority, emanation, agency or instrumentality, unincorporated body of persons or association;
+
+any reference to a public organisation or representative shall be deemed to include a reference to any successor to such public organisation or representative or any organisation or entity or representative which has taken over the functions or responsibilities of such public organisation or representative;
+
+words preceding "include", "includes", "including" and "included" shall be construed without limitation by the words which follow those words and the rule of interpretation known as ejusdem generis shall not apply;
+
+where the Customer consists of two or more persons all the respective covenants by the Customer shall be deemed to be by such persons jointly and severally; and
+
+any reference to the Authority or the Provider shall be deemed to include a reference to a representative of the Authority or, as applicable, the Provider.
+
+3. Account Types
+
+If you do not have a valid and current Account, you will not be able to hire a bike in accordance with this Agreement
+
+Two different types of Accounts are available for you, namely:
+
+an Annual Account; and
+
+a 3-Day Account.
+
+4. Opening an Account
+
+To open an Account, you must complete an Account Application Form through the Website.
+
+The information to be provided as part of the Account Application Form includes:
+
+name, address, contact details;
+
+payment card details; and
+
+e-mail address.
+
+The Authority reserves the right:
+
+to refuse any application to open an Account; and/or
+
+to refuse to enter into this Agreement.
+
+5. Acceptance of this Agreement
+
+Before this Agreement takes effect and an Account is opened by the Authority, you will be asked, as part of the completion of the Account Application Form, to read these terms and conditions and then click the "Accept" button, if you wish to proceed.
+
+By clicking the "Accept" button, you will have, and be deemed to have, entered into and accepted this Agreement.
+
+6. Subscription Fees and Hire Charges
+
+The Subscription Fee and Hire Charges are set out below:
+
+Subscription Fee
+
+Annual Account fee for each City  =  €10
+
+3-Day Account = €3
+
+Hire Charges
+
+First ½ hour	No Charge
+
+Up to 1 hour	€0.50
+
+Up to 2 hours	€1.50
+
+Up to 3 hours	€3.50
+
+Up to 4 hours	€6.50
+
+Every extra ½ hour €2.00
+
+
+
+You are required to pay Hire Charges for use of a bike.
+
+The amount of the Hire Charge in respect of a particular use of a bike shall be determined by reference to the Period of Use of that bike, using the table set out above.
+
+Where a Period of Use for a bike extends into a period specified in the table set out above, the Hire Charge shall be in respect of the entire period specified in the table, notwithstanding that the Period of Use may only included a portion of that period.
+
+The prices indicated in this document are valid as from 1st October 2014 and may be modified at any stage. Any revisions to these prices shall be placed on the Website before coming into effect.
+
+7. Security Deposit
+
+You are required to provide the Security Deposit in accordance with this clause 7.   The amount of the Security Deposit is €150.
+
+In the case of an Annual Account, the Security Deposit shall be provided by the pre-authorisation of a debit of your payment card in an amount of €150.
+
+In the case of a 3-Day Account, the Security Deposit is debited from your payment card as part of the Account establishment process and paid to the Authority on the day prior to the start date of the account.
+
+If a bike is not returned within twenty-four (24) hours of the commencement of the hire it is considered to be missing.  In those circumstances:
+
+in the case of an Annual Account, the Payment Account associated with the payment card related to the Account will be debited with the amount of the Security Deposit; or
+
+in the case of a 3-Day Account, the Security Deposit received by the Authority will be retained by it  and will not be returned to the Customer.  
+
+Notwithstanding the debiting of the amount of the Security Deposit for the loss of a bike and/or its retention, the bike remains the property of the Authority and shall be promptly returned to the Authority, if subsequently located.
+
+8. Annual Account
+
+You can set up an Annual Account by completing an Account Application Form online on the Website and providing details of a valid and current payment card to be used for the payment of the Subscription Fee for the Annual Account and any other charges arising in connection with the Account.
+
+...
+
+Each Annual Account is set up for one City – you will be requested to select the relevant City as part of the Account Application Form.
+
+Should you wish to add additional Cities to an Annual Account, this option can be selected during the completion of the Account Application Form.
+
+A separate Subscription Fee is payable for each City to which the Account relates.   Where two Cities are selected, the Subscription Fee for the Annual Account will be twice the Subscription Fee for one City and where three Cities are selected, the Subscription Fee for the Annual Account will be three times the Subscription Fee for one City.
+
+...
+
+The payment card that is being used in connection with the setup of the Annual Account must be current and valid for at least a further thirty (30) days from the date of completion of the Account Application Form.
+
+The Subscription Fee is debited from the payment card as part of the setting up of the Annual Account.
+
+In setting up the Annual Account you are authorising the Authority to effect debits from your Payment Account of such sums as are due to be paid by you in accordance with this Agreement.
+
+...
+
+Your Annual Account must have details of a valid and current payment card at all times.  If your Annual Account does not have a valid and current payment card you will not be entitled to hire a bike under this Agreement.   
+
+Where Hire Charges are incurred, these will be debited from your Payment Account using your payment card details either immediately after the hire period, or at the end of each calendar month.
+
+Where the amounts due are less than €3, the Authority retains the right to postpone collecting such charges for up to and until the expiry of the Annual Account.
+
+As part of completion of the Account Application Form, you will be asked to create a PIN Code, which must be used to validate your details at a Terminal in connection with any subsequent bike hire process.
+
+Once the Subscription Fee for the Annual Account has been paid, the Account is active. However you will need to await the delivery of your Welcome Pack containing your Membership Card as it is required to access the Service.
+
+A fee of €5 is chargeable for the reissue of a replacement Membership Card.
+
+Once registration is complete, and payment made, the Annual Account is valid for one year. The subscription renews automatically each year unless cancelled by you by email or by post not later than one month in advance of the Renewal Date.  
+
+You can view and check details of your Account online by logging into your Account on the Website.
+
+...
+
+You are responsible for ensuring that up-to-date information is maintained in relation to your Account. You should make updates when your information changes; for example, when you change address or there are changes to your payment card details.
+
+In the event of any changes affecting name, address or payment card details, you are required to update your Account details to reflect such changes within fourteen (14) days of the occurrence of the relevant change.
+
+Changes can be made online by logging into your Account on the Website or by contacting the Customer Service Centre by telephone on 0818 44 44 77
+
+9. 3-Day Account
+
+You can set up a 3-day Account online by selecting 3-day Pass on the home page of www.bikeshare.ie and providing details of a valid and current payment card to be used for the payment of amounts due under this Agreement, including, the Subscription Fee for the 3-Day Account, any Hire Charges and the Security Deposit.
+
+The Subscription Fee is debited from the payment card upon the setting up of the 3-Day Account, where Hire Charges are incurred, these will be debited from your payment card during or following the hire period.
+
+In setting up the 3-Day Account you are authorising the Authority to effect debits from your Payment Account of such amounts as are due to be paid by you in accordance with this Agreement.
+
+As part of the registration process, you will be asked to create a PIN Code which will be subsequently used to validate your details at a Terminal, as part of the bike hire process. In addition, the system will generate a Subscriber Access Number which is required to allow you to access the Service.
+
+The Security Deposit is debited from the Payment Account associated with the payment card as part of the process for establishing the 3-Day Account, resulting in a total payment of €150 on the day prior to the start date of the 3-Day Account.
+
+Upon completion of the period of the 3-Day Account, and subject to any bike hired under this Agreement being returned, the Security Deposit shall be refunded to your Payment Account less the aggregate of:
+
+Any Hire Charges that have been incurred and have not been paid; and
+
+Any amounts due in connection with damage or loss consequent on the use of the bike, if any.
+
+3-Day accounts may be amended and/or cancelled up to 24 hours before the start date of the 3-Day account.
+
+ 
+10. Your General Obligations
+
+You undertake to use the Membership Card and/or the 3-Day Pass for the sole purpose of identification at a Bike Station or to the Authority or to the Provider and for hiring a bike.
+
+You undertake to use the Service and the bikes as would any reasonably prudent, responsible and informed individual, and in accordance with these terms and conditions of use.
+
+You undertake to:
+
+Promptly pay any charges, including any charges or payments arising as a consequence of any damage or loss  arising in connection with this Agreement and/or your use of a bike;
+
+To maintain a valid and current payment card associated with your Account at all times during the period of the Account.
+
+Please note that where you change the details of your payment card, the Authority reserves the right to debit an amount of one euro (€1) to validate the changed card details.  This amount will be credited to your Account Balance and will be available to be used to discharge amounts due under this Agreement.
+
+You are responsible for the bike hired and must make every effort to avoid damage to the bike or its destruction or theft.
+
+Where any use of a bike hired by you is in breach of this Agreement, you undertake to return the bike immediately at the request of the Authority or the Provider (or their respective representatives).
+
+You undertake to inform the Provider or the Provider’s representatives as promptly as possible of the loss, theft, accident or any other problem in relation to the use of either a bike or a Membership Card or a 3-Day Pass, and in any event, no later than twenty four (24) hours following the occurrence of the relevant event by telephone to 0818 44 44 77.
+
+11. Restrictions on the Use of the Service
+
+You are not permitted:
+
+To lend, hire or transfer a Membership Card or 3-Day Pass, which remain the property of the Authority, and/or
+
+to use them for any purpose other than in connection with this Agreement and your hire and use of a bike.  
+
+Any Membership Card that is lost/stolen or becomes unusable must be reported to the Provider. A new Membership Card will be issued following payment of a €5 administration charge.
+
+Your Account will be suspended if the outstanding amount on your Account exceeds €10.  
+
+The bike remains at all times the property of the Authority.
+
+You are not permitted to allow any third party (except where you have subscribed in the capacity of legal guardian to a minor who is fourteen (14) years or older) to use the bike in any way whatsoever, whether for free or for any consideration.
+
+The Service is available to minors between the ages of fourteen (14) years  to eighteen (18) years inclusive.   Any Annual Account in respect of such minor must be with the child’s legal guardian.  The Service is not available to children under the age of 14.
+
+...
+
+You are permitted to use the bike in accordance with, but subject to, the terms of this Agreement, provided that such use is reasonable.
+
+Without prejudice to clause 11.6.1, your permission to use the bike does not include:
+
+any use contrary to law (including, traffic regulations) and the provisions of the rules of the road;
+
+any use on land or under conditions that are likely to damage the bike;
+
+the transportation of any passenger under any circumstances;
+
+any use of the bike causing a danger to you or to third parties;
+
+any use of the bike for commercial or promotional purposes without the prior written consent of the Authority;
+
+any dismantling or attempt to dismantle all or part of the bike, and
+
+any abnormal use of a bike.
+
+You may not hire a bike for a period greater than twenty four (24) hours.
+
+A bike can take a load of up to one hundred and twenty five kilograms (125 kg) and the basket can take a load of up to eight kilograms (8kg).   You are required to ensure that these limits are not exceeded during your use of the bike.
+
+Any goods carried by you howsoever when using the bike (including, on your person, on the bike or in the basket) are carried at your risk and neither the Authority nor the Provider bear any liability in relation to such carriage.
+
+Neither the Authority nor the Provider bear any liability in relation to damage to, or soiling of, any clothing or property while you are using the Service.
+
+The use of any images of any bike, Bike Station or any other element of the Service for commercial purposes is prohibited unless authorised in advance, in writing, by the Authority.
+
+Breaches of the terms and conditions set out in this Agreement may result in the suspension or cancellation of your Account and/or your entitlement to hire and use bikes.
+
+12. Your Liabilities and Declarations
+
+You are fully and solely liable for any damage caused by any use made by you of the bike.
+
+Any parent who is the Account holder for a minor using the Service is liable for any damage caused directly or indirectly by the minor as a result of using the Service.
+
+Any hire period in excess of twenty four (24) hours from the commencement of the hire period will be considered as a case of disappearance until the bike is found.
+
+In the event of the disappearance of a bike which you had hired, you are required to inform the Provider of this disappearance by telephone call to 0818 44 44 77 as promptly as possible, but in any event within twenty four (24) hours of the initial hiring of the bike, and to register the theft with the An Garda Síochána within twenty four (24) hours. You are also required to promptly provide a copy of the report from An Garda Síochána to the Provider.
+
+In the event of an accident and/or incident involving the bike, you are required to inform the Provider of the relevant details of such accident or incident as promptly as possible by telephone call to 0818 44 44 77. You remain liable for the bike until such time as it is locked in a bike stand at a Bike Station or handed over in person to a representative of the Provider.
+
+Each time you hire a bike, you are confirming to the Authority that you are fully capable of using a bike and physically fit to do so.
+
+Prior to using the bike, you must carry out a basic check of the main visible working parts, in particular (but not limited to):
+
+That the saddle, pedals and basket are properly fixed;
+
+That the bell, brakes and lights function properly;
+
+That the frame and the tyres are in good condition and the tyres are adequately inflated; and
+
+That the anti-theft combination lock is attached to the bike. This lock should be used by you at all times if the bike is left unattended at any time during the Period of Use.
+
+In the event that any of the above criteria are not met, you are required to notify the Provider by telephone call to 0818 44 44 77.
+
+You are also advised to:
+
+Adjust the height of the saddle correctly;
+
+Check that the bike, in particular the saddle, is clean before use;
+
+Obey the Rules of the Road and traffic regulations in force at the time of using the Service (e.g. respecting traffic lights, not cycling on footpaths, etc.);
+
+Wear an approved helmet and suitable clothing; and
+
+Adapt braking distance and speed to weather conditions.
+
+No insurance is provided by the Authority in respect of your use of any bike and your use of any bike as part of the Service is entirely at your own risk. It is advised that you take out your own public liability insurance if you do not have such a policy already in place.
+
+13. Charges for Loss or Damage
+
+Where you are an Annual Account holder, you authorise the Authority:
+
+To pre-authorise (or, in the case of a renewal of the Annual Account, renew the pre-authorisation of) an amount equal to the Security Deposit (using your payment card details) from your Payment Account on the opening of the Annual Account and on each renewal of the Annual Account; and
+
+When amounts have not been paid by you in accordance with this Agreement, to effect debits on your Payment Account using the amount pre-authorised in accordance with this Agreement.
+
+If it is found that you have failed to abide by your obligations under the terms of this Agreement, the charges set out in clause 13.3 are payable immediately upon request by the Provider (on behalf of the Authority).
+
+The charges payable by you to the Authority in the event of damage to a bike or any other equipment forming part of the Service or the loss or theft of a bike or any equipment associated with the bike are set out below and are payable immediately upon request in accordance with clause 13.2:
+
+Loss of a bike:  an amount equal to the Security Deposit;
+
+The cost of the repair/replacement of any damage to a bike caused during your Period of Use up to a maximum of the amount of the Security Deposit;
+
+The cost of the repair/replacement of any damage to equipment associated with the Service (other than a bike) attributable to you up to a maximum of the amount of the Security Deposit; and
+
+Loss or damage to the anti-theft lock: €50.
+
+Upon any amount of the Security Deposit being applied in accordance with the foregoing and you are an Annual Account holder,  you authorise the Authority to pre-authorise an amount equal to that applied in accordance with clause 13.3 (using your payment card details) from your Payment Account.
+
+14. Modification of these Terms and Conditions
+
+The Authority may alter, amend, or otherwise change the terms and conditions of this Agreement at any time.  
+
+All revisions to these terms and conditions shall be placed on the Website or shall be otherwise notified to you.
+
+Where the Authority has exercised its right under clause 14.1, you may refuse to accept such change by:
+
+Ceasing to hire bikes under this Agreement;
+
+Paying all amounts due under this Agreement; and
+
+Notifying the Authority in writing that you wish to terminate this Agreement.
+
+If you continue to use the Service and/or hire a bike after a change to terms and conditions that have been published or otherwise notified in accordance with this Agreement, you will be deemed to have accepted the updated terms and conditions.
+
+15. Cancellation
+
+You have the right to cancel this Agreement within the Cancellation Period without providing any reason.  If you have expressly requested, (e.g. by using a bike) that we begin providing you with the Service under this Agreement within the Cancellation Period, you will be liable to pay for the proportion of the Service that you have received
+
+Please note that in relation to 3-Day Accounts, if the 3 days for which your Account is valid have elapsed, you will no longer be able to cancel this Agreement as the Service will have been fully performed.
+
+...
+
+If you would like to exercise your right to cancel this Agreement, please fill in the cancellation form provided to you with this Agreement or alternatively, notify us in writing that you are exercising your right to terminate this Agreement or Login to www.bikeshare.ie, select Account and then select Close Account.
+
+Any cancellation in accordance with this clause 15 shall take effect on the business day subsequent to the date of receipt by the Authority of the cancellation request.
+
+Any cancellation of this Agreement is without prejudice to any liabilities that may have arisen prior to such cancellation taking effect.
+
+16. Termination
+
+This Agreement may be terminated by either party by giving fourteen (14) days written notice to the other party.
+
+This Agreement may be terminated by the Authority with immediate effect:
+
+Where you fail to use the bike in accordance with this Agreement or you have made or purported to make use of the bike in an unauthorised or unlawful manner; or
+
+Where you have failed to make the payments required in accordance with this Agreement or fail to discharge an amount owing to the Authority within the time requested for payment;
+
+Where you have otherwise breached the terms of this Agreement; or
+
+Where you fail to maintain a valid and current payment card associated with your Account.
+
+17. Consequences of Termination
+
+Following termination, you will remain responsible for the payment of any amounts owing by you under this Agreement and such outstanding amounts will be debited from your Account. If required, instructions may be given by the Authority to debit your Payment Account with any balance outstanding to the Authority on or after termination.
+
+Any remaining credit balance on your Account shall be refunded to you.
+
+If there are insufficient funds in your Account you remain liable for all such amounts. If such unpaid charges are not promptly paid to the Authority, you may become liable for additional charges or payment recovery costs.
+
+18. Data Protection
+
+You consent to the use and disclosure of information provided by you (including personal data as defined in the Data Protection Acts 1988 and 2003) for the purposes set out in this Agreement.
+
+The Authority may disclose your personal data to its agents, contractors and service providers to the extent reasonably required for the purposes described above.
+
+The personal data which you provide to the Authority will be held on secure servers and all reasonable steps will be taken (including appropriate technical and organisational security measures) to protect your personal data.
+
+If at any time we decide to use personal data in a manner significantly different from that stated in this data protection notice, or otherwise disclosed to you at the time it was collected, we will notify you, and you will have the choice as to whether or not we use your information in the new manner.
+
+You have the right, subject to certain exemptions, to obtain a copy of any personal data we hold about you and to correct any inaccuracies in such data. If you wish to avail of any of these rights, please contact us at the contact address on the Website. Your request will be dealt with as soon as possible and will not take more than forty (40) days to process.
+
+19. Intellectual Property
+
+The Authority grants you a non-exclusive, non-transferable, limited right to access and use the Website and the material displayed thereon. Such access is subject to the terms of this Agreement and the Terms of Website Use which are set out on the Website at the time of such access.
+
+20. Representation and Warranty
+
+You represent and warrant to the Authority:
+
+The information disclosed to the Authority in connection with this Agreement is true and correct;
+
+You have validly accepted this Agreement; and
+
+This Agreement constitutes your valid and binding obligations.
+
+21. Assignment
+
+The Authority may assign, transfer or otherwise dispose of its rights, obligations and interest in or under this Agreement to any person at any time.
+
+You may not assign, transfer or otherwise dispose of its rights, obligations and interest in or under the Agreement.
+
+22. Force Majeure
+
+If the use of the bike or Bike Station or Terminal is prevented or hindered by any matter beyond the control of the Authority (including, acts of God, acts of government (including local government), strikes, lockouts, industrial disputes, winds, fire, lightning, aircraft, explosion, flooding, roadworks, drought, riots, civil commotions, acts of war, insurrection, embargo, inability to communicate with third parties for whatever reason, failure of any computer or settlement system, failure of or delay in the transmission of messages via any mobile phone network, prevention from or hindrance in obtaining any energy or other supplies, late or malicious mischief or theft or mistaken payment by an agent or any other reason (whether or not similar in kind to any of the above) beyond the control of the Authority, the Provider or any of their respective agents or subcontractors), then the performance of this Agreement shall be suspended without any liability on the part of the Authority until such prevention or hindrance comes to an end.
+
+23. Liability
+
+To the maximum extent permitted by law, any and all liabilities of the Authority (whether under contract, tort (including negligence) or otherwise) arising out of or in connection with the Service are hereby excluded.
+
+Neither the Authority, the Provider nor their respective agents or contractors will have any obligation or liability with respect to your use of the Service.
+
+Without prejudice to the foregoing, the Authority shall not be liable to you for any loss of profits, goodwill, business opportunity or any type of special, indirect or consequential loss incurred by you, whether directly or indirectly.
+
+24. Miscellaneous
+
+The terms and conditions set out in this Agreement constitute all the terms and conditions of the Agreement. You acknowledge that you have not relied upon any representation save for any set out in these terms and conditions.
+
+The interpretation of this Agreement shall be governed by Irish law and the Irish courts have jurisdiction to resolve any dispute in relation to the Agreement.
+
+Any claim by you against the Authority or the Provider must be initiated and notified in writing to the Authority within three months of the event giving rise to the claim.
+
+There shall be no waiver of any terms or conditions unless such waiver is evidenced in writing and signed by the waiving party. No omission or delay on the part of either party in exercising any right, power or privilege hereunder shall operate as a waiver, nor shall any single or partial exercise of any such right, power or privilege preclude any other or further exercise thereof of any other right, power or privilege.
+
+The rights and remedies herein are cumulative with and not exclusive of any rights or remedies provided by law. Except as expressly stated in this Agreement, any and all representations, warranties and undertakings, express or implied, are hereby excluded.
+
+You may make a complaint in relation to any issue arising under this Agreement by contacting our Customer Service Centre by telephone on 0818 44 44 77.
+
+25. Provisions Severable
+
+Each of the provisions contained in these terms and conditions shall be severable and distinct from one another and if any one or more of such provisions is now or hereafter become invalid, illegal or unreasonable, the validity, legality and enforceability of the remaining such provisions shall not in any way be affected, prejudiced or compared thereby.
+
+26. Notices
+
+Where either you or the Authority is required to notify the other pursuant to this Agreement, or otherwise wishes to communicate with the other, such notice or communication may be served:
+
+In your case to the Authority:
+
+By posting to An Rothar Nua, PO Box 44, Gorey, Co. Wexford; or
+
+By email to contact@bikeshare.ie or as may be notified from time to time; or
+
+In the case of the Authority to you:
+
+By posting or delivering to such address as is recorded in the Account Application Form (as may be changed from time to time in accordance with this Agreement);
+
+By email to such address as is recorded in the Account Application Form (as may be amended from time to time in accordance with this Agreement); or
+
+by such other means as the Authority may consider appropriate.
+
+Any notice or communication so served shall be deemed duly served:
+
+In the case of post, forty-eight (48) hours after posting or if delivered by hand, on delivery; or
+
+In the case of email, upon delivery.
+
+If notification is by telephone or in person, it will only be effective if confirmed by written notice served in accordance with this clause 26 within seven (7) days of such notification by telephone or in person.
